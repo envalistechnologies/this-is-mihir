@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>A fully dynamic MERN portfolio with an admin panel to update every section in real time.<br><br>👯 I’m looking to collaborate on<br>MERN stack projects with clean UI and animation-focused user experiences.<br><br>🌱 I’m currently learning<br>Advanced React patterns, API integrations, and full MERN stack architecture.<br><br>💬 Ask me about<br>JavaScript, React, Tailwind CSS, Framer Motion, GSAP, and real-world project building.<br><br>⚡ Fun fact<br>I learn by building — if I can’t turn a concept into a real project, it’s not learned.<br><br>— Mihir Patel ✨<br>Frontend Developer | MERN Stack | 
+🔭 I’m currently working on<br>A fully dynamic MERN portfolio with an admin panel to update every section in real time.<br><br>👯 I’m looking to collaborate on<br>MERN stack projects with clean UI and animation-focused user experiences.<br><br>🌱 I’m currently learning<br>Advanced React patterns, API integrations, and full MERN stack architecture.<br><br>💬 Ask me about<br>JavaScript, React, Tailwind CSS, Framer Motion, GSAP, and real-world project building.<br><br>⚡ Fun fact<br>I learn by building — if I can’t turn a concept into a real project, it’s not learned.<br><br>— Mihir Patel ✨<br>FullStack Developer | MERN Stack | 
 
 
 ## 🌐 Socials:
